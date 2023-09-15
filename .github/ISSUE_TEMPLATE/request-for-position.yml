@@ -1,5 +1,5 @@
 name: Request for WebKit's position on an emerging web specification
-description: If you're working on a spec and would like to know the WebKit Open Source Projet's position on it, this is the form for you!
+description: If you're working on a spec and would like to know the WebKit Open Source Project's position on it, this is the form for you!
 body:
   - type: markdown
     attributes:
